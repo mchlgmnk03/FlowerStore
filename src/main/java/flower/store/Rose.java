@@ -2,7 +2,7 @@ package flower.store;
 
 public class Rose extends Flower { 
 
-    public Rose(){ 
+    public Rose() { 
         super();
         this.setColor(FlowerColor.RED);
     }
